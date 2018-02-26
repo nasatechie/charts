@@ -16,7 +16,6 @@ Features include:
 * Easy to style.
 * You can specify that sub-trees should start collapsed, which is useful for very large trees
 
-![jQuery OrgChart](http://i.imgur.com/T8kKA.png "jQuery OrgChart")
 
 ----
 
@@ -24,7 +23,7 @@ Features include:
 
 To get up and running you'll need a few things. 
 
------
+----
 
 ###The JavaScript Libraries & CSS
 
